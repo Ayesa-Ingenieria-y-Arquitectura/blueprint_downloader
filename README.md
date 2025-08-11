@@ -130,12 +130,10 @@ FILE_STORAGE_PATH=<ruta_archivos>
 {
   "supported_software": {
     "civil3d": {
-      "versions": ["2022", "2023", "2024"],
-      "template_types": ["standard", "metric", "imperial"]
+      "versions": ["2022", "2023", "2024"]
     },
     "revit": {
-      "versions": ["2022", "2023", "2024"],
-      "template_types": ["architectural", "structural", "mep"]
+      "versions": ["2022", "2023", "2024"]
     }
   }
 }
